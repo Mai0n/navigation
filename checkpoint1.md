@@ -1,4 +1,4 @@
-Checkpoint 1 - Navigation 
+## Checkpoint 1 - Navigation 
 
 ## Descrição do projeto
 
